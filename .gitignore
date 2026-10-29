@@ -4,3 +4,4 @@ data/
 .browsers/
 models/
 __pycache__/
+public/vendor/
